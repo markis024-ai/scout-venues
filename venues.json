@@ -3,46 +3,6 @@
   "updated": "2026-08-24",
   "venues": [
     {
-      "id": "atlantic-seaboard-loft",
-      "name": "Newname Venue",
-      "town": "Cape Town",
-      "area": "Atlantic Seaboard",
-      "region": "Western Cape",
-      "attributes": [
-        "seaside",
-        "modern",
-        "industrial"
-      ],
-      "keywords": [
-        "sea view",
-        "concrete",
-        "large windows",
-        "natural light",
-        "balcony",
-        "white walls",
-        "open plan",
-        "city backdrop",
-        "sunset light"
-      ],
-      "pricePerHour": 950,
-      "availability": {
-        "days": "Mon – Sat",
-        "hours": "07:00 – 18:00",
-        "note": ""
-      },
-      "photos": [],
-      "description": "",
-      "contact": {
-        "person": "Johnathan Doeve",
-        "phone": "+2712345678",
-        "whatsapp": "",
-        "email": "test@test.com",
-        "website": "test.com",
-        "address": ""
-      },
-      "listed": false
-    },
-    {
       "id": "boland-vineyard-estate",
       "name": "Boland Vineyard Estate",
       "town": "Stellenbosch",
@@ -430,7 +390,11 @@
         "hours": "05:30 – 19:30",
         "note": ""
       },
-      "photos": [],
+      "photos": [
+        "photos/karoo-salt-flats/1.jpg",
+        "photos/karoo-salt-flats/2.jpg",
+        "photos/karoo-salt-flats/3.jpg"
+      ],
       "description": "",
       "contact": {
         "person": "",
@@ -440,7 +404,8 @@
         "website": "",
         "address": ""
       },
-      "listed": false
+      "listed": false,
+      "thumb": "photos/karoo-salt-flats/thumb.jpg"
     },
     {
       "id": "lowveld-riverside-lodge",
@@ -518,6 +483,46 @@
         "whatsapp": "",
         "email": "",
         "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "atlantic-seaboard-loft",
+      "name": "Newname Venue",
+      "town": "Cape Town",
+      "area": "Atlantic Seaboard",
+      "region": "Western Cape",
+      "attributes": [
+        "seaside",
+        "modern",
+        "industrial"
+      ],
+      "keywords": [
+        "sea view",
+        "concrete",
+        "large windows",
+        "natural light",
+        "balcony",
+        "white walls",
+        "open plan",
+        "city backdrop",
+        "sunset light"
+      ],
+      "pricePerHour": 950,
+      "availability": {
+        "days": "Mon – Sat",
+        "hours": "07:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "Johnathan Doeve",
+        "phone": "+2712345678",
+        "whatsapp": "",
+        "email": "test@test.com",
+        "website": "test.com",
         "address": ""
       },
       "listed": false
