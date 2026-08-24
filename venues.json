@@ -33,11 +33,11 @@
       "photos": [],
       "description": "",
       "contact": {
-        "person": "",
-        "phone": "",
+        "person": "John Doe",
+        "phone": "+2712345678",
         "whatsapp": "",
-        "email": "",
-        "website": "",
+        "email": "test@test.com",
+        "website": "test.com",
         "address": ""
       },
       "listed": false
