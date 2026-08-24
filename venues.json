@@ -515,7 +515,10 @@
         "hours": "07:00 – 18:00",
         "note": ""
       },
-      "photos": [],
+      "photos": [
+        "photos/atlantic-seaboard-loft/1.jpg",
+        "photos/atlantic-seaboard-loft/2.jpg"
+      ],
       "description": "",
       "contact": {
         "person": "Johnathan Doeve",
@@ -525,7 +528,8 @@
         "website": "test.com",
         "address": ""
       },
-      "listed": false
+      "listed": false,
+      "thumb": "photos/atlantic-seaboard-loft/thumb.jpg"
     },
     {
       "id": "noordhoek-forest-glade",
