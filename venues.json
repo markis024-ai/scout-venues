@@ -13,6 +13,17 @@
         "modern",
         "industrial"
       ],
+      "keywords": [
+        "sea view",
+        "concrete",
+        "large windows",
+        "natural light",
+        "balcony",
+        "white walls",
+        "open plan",
+        "city backdrop",
+        "sunset light"
+      ],
       "pricePerHour": 950,
       "availability": {
         "days": "Mon – Sat",
@@ -41,6 +52,17 @@
         "vineyard",
         "garden",
         "mountain"
+      ],
+      "keywords": [
+        "vines",
+        "oak trees",
+        "mountain backdrop",
+        "gravel road",
+        "stone walls",
+        "rose garden",
+        "golden hour",
+        "wine barrels",
+        "long driveway"
       ],
       "pricePerHour": 1200,
       "availability": {
@@ -71,6 +93,17 @@
         "forest",
         "rustic"
       ],
+      "keywords": [
+        "open meadow",
+        "mountain peaks",
+        "stream",
+        "wild grass",
+        "mist",
+        "big sky",
+        "hiking trail",
+        "rocks",
+        "pine trees"
+      ],
       "pricePerHour": 600,
       "availability": {
         "days": "Daily",
@@ -99,6 +132,17 @@
         "beach",
         "seaside",
         "rustic"
+      ],
+      "keywords": [
+        "sand dunes",
+        "driftwood",
+        "wooden deck",
+        "ocean",
+        "tidal pools",
+        "weathered timber",
+        "sunrise",
+        "milkwood trees",
+        "beach path"
       ],
       "pricePerHour": 550,
       "availability": {
@@ -129,6 +173,17 @@
         "farm",
         "garden"
       ],
+      "keywords": [
+        "apple trees",
+        "blossom",
+        "rows of trees",
+        "farm shed",
+        "dirt track",
+        "dappled light",
+        "picnic lawn",
+        "mountains",
+        "autumn colour"
+      ],
       "pricePerHour": 700,
       "availability": {
         "days": "Mon – Fri",
@@ -157,6 +212,17 @@
         "farm",
         "river",
         "rustic"
+      ],
+      "keywords": [
+        "river bank",
+        "willow trees",
+        "old farmhouse",
+        "corrugated iron",
+        "open veld",
+        "reeds",
+        "wooden jetty",
+        "fire pit",
+        "sunset over water"
       ],
       "pricePerHour": 450,
       "availability": {
@@ -187,6 +253,17 @@
         "modern",
         "minimal"
       ],
+      "keywords": [
+        "cyclorama",
+        "white cyc",
+        "natural light",
+        "skylight",
+        "seamless backdrop",
+        "studio lighting",
+        "concrete floor",
+        "blackout blinds",
+        "changing room"
+      ],
       "pricePerHour": 1100,
       "availability": {
         "days": "Mon – Sat",
@@ -215,6 +292,17 @@
         "industrial",
         "warehouse",
         "urban"
+      ],
+      "keywords": [
+        "brick wall",
+        "steel beams",
+        "loading dock",
+        "raw concrete",
+        "high ceilings",
+        "graffiti",
+        "roller door",
+        "exposed pipes",
+        "industrial windows"
       ],
       "pricePerHour": 800,
       "availability": {
@@ -245,6 +333,17 @@
         "modern",
         "pool"
       ],
+      "keywords": [
+        "infinity pool",
+        "sea view",
+        "white architecture",
+        "palm trees",
+        "sun deck",
+        "glass doors",
+        "marble",
+        "tropical garden",
+        "ocean breeze"
+      ],
       "pricePerHour": 1400,
       "availability": {
         "days": "Tue – Sun",
@@ -273,6 +372,17 @@
         "heritage",
         "garden",
         "manor"
+      ],
+      "keywords": [
+        "jacaranda trees",
+        "purple blossom",
+        "victorian architecture",
+        "wide staircase",
+        "chandelier",
+        "wrought iron",
+        "formal garden",
+        "veranda",
+        "antique furniture"
       ],
       "pricePerHour": 500,
       "availability": {
@@ -303,6 +413,17 @@
         "minimal",
         "outdoor"
       ],
+      "keywords": [
+        "salt pan",
+        "flat horizon",
+        "big sky",
+        "cracked earth",
+        "stark landscape",
+        "night sky",
+        "stars",
+        "empty space",
+        "harsh light"
+      ],
       "pricePerHour": 400,
       "availability": {
         "days": "Daily",
@@ -331,6 +452,17 @@
         "river",
         "forest",
         "lodge"
+      ],
+      "keywords": [
+        "river",
+        "thatch roof",
+        "indigenous forest",
+        "wooden walkway",
+        "ferns",
+        "waterfall",
+        "rocks",
+        "forest canopy",
+        "birdsong"
       ],
       "pricePerHour": 750,
       "availability": {
@@ -361,6 +493,17 @@
         "outdoor",
         "rustic"
       ],
+      "keywords": [
+        "rock face",
+        "natural amphitheatre",
+        "boulders",
+        "cliff",
+        "panoramic view",
+        "aloe plants",
+        "dusty ground",
+        "sunset ridge",
+        "open sky"
+      ],
       "pricePerHour": 650,
       "availability": {
         "days": "Wed – Sun",
@@ -389,6 +532,17 @@
         "forest",
         "beach",
         "garden"
+      ],
+      "keywords": [
+        "milkwood forest",
+        "forest clearing",
+        "dappled light",
+        "fern undergrowth",
+        "moss",
+        "long beach",
+        "horses",
+        "sand path",
+        "sea mist"
       ],
       "pricePerHour": 900,
       "availability": {
