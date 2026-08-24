@@ -1,0 +1,412 @@
+{
+  "version": 1,
+  "updated": "2026-08-24",
+  "venues": [
+    {
+      "id": "atlantic-seaboard-loft",
+      "name": "Atlantic Seaboard Loft",
+      "town": "Cape Town",
+      "area": "Atlantic Seaboard",
+      "region": "Western Cape",
+      "attributes": [
+        "seaside",
+        "modern",
+        "industrial"
+      ],
+      "pricePerHour": 950,
+      "availability": {
+        "days": "Mon – Sat",
+        "hours": "07:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "boland-vineyard-estate",
+      "name": "Boland Vineyard Estate",
+      "town": "Stellenbosch",
+      "area": "Cape Winelands",
+      "region": "Western Cape",
+      "attributes": [
+        "vineyard",
+        "garden",
+        "mountain"
+      ],
+      "pricePerHour": 1200,
+      "availability": {
+        "days": "Tue – Sun",
+        "hours": "08:00 – 17:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "cathedral-peak-meadow",
+      "name": "Cathedral Peak Meadow",
+      "town": "Winterton",
+      "area": "Drakensberg",
+      "region": "KwaZulu-Natal",
+      "attributes": [
+        "mountain",
+        "forest",
+        "rustic"
+      ],
+      "pricePerHour": 600,
+      "availability": {
+        "days": "Daily",
+        "hours": "06:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "dune-break-cottage",
+      "name": "Dune Break Cottage",
+      "town": "Jeffreys Bay",
+      "area": "Sunshine Coast",
+      "region": "Eastern Cape",
+      "attributes": [
+        "beach",
+        "seaside",
+        "rustic"
+      ],
+      "pricePerHour": 550,
+      "availability": {
+        "days": "Mon – Sun",
+        "hours": "06:30 – 19:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "elgin-apple-orchard",
+      "name": "Elgin Apple Orchard",
+      "town": "Grabouw",
+      "area": "Overberg",
+      "region": "Western Cape",
+      "attributes": [
+        "orchard",
+        "farm",
+        "garden"
+      ],
+      "pricePerHour": 700,
+      "availability": {
+        "days": "Mon – Fri",
+        "hours": "08:00 – 16:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "farmhouse-on-the-vaal",
+      "name": "Farmhouse on the Vaal",
+      "town": "Parys",
+      "area": "Vaal Triangle",
+      "region": "Free State",
+      "attributes": [
+        "farm",
+        "river",
+        "rustic"
+      ],
+      "pricePerHour": 450,
+      "availability": {
+        "days": "Daily",
+        "hours": "07:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "glasshouse-studio-rosebank",
+      "name": "Glasshouse Studio Rosebank",
+      "town": "Johannesburg",
+      "area": "Rosebank",
+      "region": "Gauteng",
+      "attributes": [
+        "studio",
+        "modern",
+        "minimal"
+      ],
+      "pricePerHour": 1100,
+      "availability": {
+        "days": "Mon – Sat",
+        "hours": "07:00 – 21:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "highveld-warehouse",
+      "name": "Highveld Warehouse",
+      "town": "Pretoria",
+      "area": "Pretoria East",
+      "region": "Gauteng",
+      "attributes": [
+        "industrial",
+        "warehouse",
+        "urban"
+      ],
+      "pricePerHour": 800,
+      "availability": {
+        "days": "Mon – Sat",
+        "hours": "08:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "indigo-bay-villa",
+      "name": "Indigo Bay Villa",
+      "town": "Umhlanga",
+      "area": "North Coast",
+      "region": "KwaZulu-Natal",
+      "attributes": [
+        "seaside",
+        "modern",
+        "pool"
+      ],
+      "pricePerHour": 1400,
+      "availability": {
+        "days": "Tue – Sun",
+        "hours": "07:00 – 17:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "jacaranda-manor",
+      "name": "Jacaranda Manor",
+      "town": "Polokwane",
+      "area": "Capricorn",
+      "region": "Limpopo",
+      "attributes": [
+        "heritage",
+        "garden",
+        "manor"
+      ],
+      "pricePerHour": 500,
+      "availability": {
+        "days": "Mon – Sat",
+        "hours": "08:00 – 17:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "karoo-salt-flats",
+      "name": "Karoo Salt Flats",
+      "town": "Sutherland",
+      "area": "Great Karoo",
+      "region": "Northern Cape",
+      "attributes": [
+        "desert",
+        "minimal",
+        "outdoor"
+      ],
+      "pricePerHour": 400,
+      "availability": {
+        "days": "Daily",
+        "hours": "05:30 – 19:30",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "lowveld-riverside-lodge",
+      "name": "Lowveld Riverside Lodge",
+      "town": "Hazyview",
+      "area": "Panorama Route",
+      "region": "Mpumalanga",
+      "attributes": [
+        "river",
+        "forest",
+        "lodge"
+      ],
+      "pricePerHour": 750,
+      "availability": {
+        "days": "Daily",
+        "hours": "06:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "magalies-rock-amphitheatre",
+      "name": "Magalies Rock Amphitheatre",
+      "town": "Hartbeespoort",
+      "area": "Magaliesberg",
+      "region": "North West",
+      "attributes": [
+        "mountain",
+        "outdoor",
+        "rustic"
+      ],
+      "pricePerHour": 650,
+      "availability": {
+        "days": "Wed – Sun",
+        "hours": "07:00 – 18:00",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "noordhoek-forest-glade",
+      "name": "Noordhoek Forest Glade",
+      "town": "Cape Town",
+      "area": "South Peninsula",
+      "region": "Western Cape",
+      "attributes": [
+        "forest",
+        "beach",
+        "garden"
+      ],
+      "pricePerHour": 900,
+      "availability": {
+        "days": "Mon – Sun",
+        "hours": "06:30 – 18:30",
+        "note": ""
+      },
+      "photos": [],
+      "description": "",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    }
+  ]
+}
