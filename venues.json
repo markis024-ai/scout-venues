@@ -10,11 +10,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
+        "hotel",
         "seaside",
         "garden",
         "urban",
-        "pool",
-        "hotel"
+        "pool"
       ],
       "keywords": [
         "provenal",
@@ -62,9 +62,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
+        "vineyard",
         "seaside",
         "mountain",
-        "vineyard",
         "garden",
         "modern"
       ],
@@ -113,7 +113,6 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "beach",
         "seaside"
       ],
@@ -309,8 +308,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "forest",
         "vineyard",
+        "forest",
         "garden",
         "rustic"
       ],
@@ -359,10 +358,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "forest",
         "vineyard",
-        "garden",
         "farm",
+        "garden",
         "rustic"
       ],
       "keywords": [
@@ -601,10 +599,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "forest",
         "vineyard",
-        "farm"
+        "farm",
+        "mountain"
       ],
       "keywords": [
         "hilltop",
@@ -650,7 +647,6 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "mountain",
         "forest"
       ],
@@ -702,11 +698,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "studio",
-        "mountain",
         "vineyard",
-        "heritage",
-        "hotel"
+        "mountain",
+        "heritage"
       ],
       "keywords": [
         "agter-paarl",
@@ -798,11 +792,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "studio",
-        "mountain",
-        "forest",
         "vineyard",
-        "garden"
+        "farm",
+        "mountain",
+        "garden",
+        "heritage"
       ],
       "keywords": [
         "oldest wine estate",
@@ -848,9 +842,9 @@
       "kind": "venue",
       "attributes": [
         "vineyard",
-        "heritage",
-        "industrial",
         "farm",
+        "garden",
+        "heritage",
         "rustic"
       ],
       "keywords": [
@@ -899,11 +893,11 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "seaside",
         "mountain",
+        "river",
         "garden",
-        "river"
+        "fynbos"
       ],
       "keywords": [
         "nature reserve",
@@ -995,11 +989,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
+        "farm",
+        "mountain",
         "garden",
-        "heritage",
-        "farm"
+        "heritage"
       ],
       "keywords": [
         "banhoek valley",
@@ -1044,10 +1038,10 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "mountain",
         "forest",
         "river",
+        "fynbos",
         "heritage"
       ],
       "keywords": [
@@ -1147,11 +1141,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "forest",
         "vineyard",
+        "farm",
+        "mountain",
         "river",
-        "heritage"
+        "fynbos"
       ],
       "keywords": [
         "franschhoek",
@@ -1198,8 +1192,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "forest",
-        "vineyard"
+        "vineyard",
+        "forest"
       ],
       "keywords": [
         "pine forest",
@@ -1292,11 +1286,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
+        "hotel",
         "vineyard",
+        "mountain",
         "garden",
-        "heritage",
-        "modern"
+        "heritage"
       ],
       "keywords": [
         "cape dutch manor",
@@ -1442,10 +1436,10 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "vineyard",
         "industrial",
+        "vineyard",
         "farm",
+        "mountain",
         "rustic"
       ],
       "keywords": [
@@ -1495,8 +1489,7 @@
       "attributes": [
         "beach",
         "seaside",
-        "mountain",
-        "pool"
+        "mountain"
       ],
       "keywords": [
         "tidal pool",
@@ -1544,8 +1537,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
+        "mountain",
         "heritage"
       ],
       "keywords": [
@@ -1639,11 +1632,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
+        "mountain",
         "garden",
-        "heritage",
-        "fynbos"
+        "fynbos",
+        "heritage"
       ],
       "keywords": [
         "french style",
@@ -1691,11 +1684,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
-        "garden",
+        "farm",
+        "mountain",
         "river",
-        "farm"
+        "garden"
       ],
       "keywords": [
         "hemel-en-aarde",
@@ -1741,11 +1734,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
+        "hotel",
+        "farm",
         "mountain",
         "garden",
-        "heritage",
-        "farm",
-        "pool"
+        "heritage"
       ],
       "keywords": [
         "working farm",
@@ -1792,9 +1785,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "studio",
-        "mountain",
         "vineyard",
+        "mountain",
         "garden",
         "heritage"
       ],
@@ -1844,9 +1836,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "forest",
         "vineyard",
+        "farm",
+        "mountain",
         "garden",
         "heritage"
       ],
@@ -1895,7 +1887,6 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
         "heritage"
       ],
@@ -1942,7 +1933,6 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "beach",
         "seaside",
         "urban"
@@ -1992,9 +1982,8 @@
       "kind": "venue",
       "attributes": [
         "mountain",
-        "forest",
-        "garden",
         "river",
+        "garden",
         "heritage"
       ],
       "keywords": [
@@ -2146,9 +2135,9 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
+        "industrial",
         "mountain",
-        "river",
-        "industrial"
+        "river"
       ],
       "keywords": [
         "vlei",
@@ -2196,7 +2185,6 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "mountain",
         "forest",
         "garden"
@@ -2245,9 +2233,8 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
-        "mountain",
-        "vineyard"
+        "vineyard",
+        "mountain"
       ],
       "keywords": [
         "granite domes",
@@ -2293,10 +2280,10 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
-        "garden",
+        "mountain",
         "river",
+        "garden",
         "modern"
       ],
       "keywords": [
@@ -2343,9 +2330,8 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "forest",
-        "garden",
-        "river"
+        "river",
+        "garden"
       ],
       "keywords": [
         "public park",
@@ -2391,9 +2377,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "forest",
         "vineyard",
+        "farm",
+        "mountain",
         "river",
         "heritage"
       ],
@@ -2442,7 +2428,7 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "forest",
+        "gallery",
         "vineyard",
         "river",
         "heritage",
@@ -2493,9 +2479,9 @@
       "region": "Gauteng",
       "kind": "venue",
       "attributes": [
+        "hotel",
         "urban",
-        "modern",
-        "hotel"
+        "modern"
       ],
       "keywords": [
         "rooftop",
@@ -2542,11 +2528,10 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "studio",
         "seaside",
         "mountain",
-        "urban",
-        "fynbos"
+        "fynbos",
+        "urban"
       ],
       "keywords": [
         "signal hill",
@@ -2594,11 +2579,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "forest",
+        "hotel",
         "vineyard",
-        "garden",
+        "farm",
         "river",
-        "heritage"
+        "garden"
       ],
       "keywords": [
         "wine farm",
@@ -2646,9 +2631,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "studio",
-        "mountain",
         "vineyard",
+        "mountain",
         "heritage",
         "modern"
       ],
@@ -2791,7 +2775,6 @@
       "region": "Western Cape",
       "kind": "public",
       "attributes": [
-        "mountain",
         "forest",
         "river"
       ],
@@ -2843,11 +2826,10 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
+        "hotel",
         "mountain",
-        "forest",
         "garden",
-        "rustic",
-        "hotel"
+        "rustic"
       ],
       "keywords": [
         "country house hotel",
@@ -2893,11 +2875,11 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
+        "hotel",
         "mountain",
-        "garden",
         "river",
-        "rustic",
-        "hotel"
+        "garden",
+        "rustic"
       ],
       "keywords": [
         "thatched architecture",
@@ -2943,10 +2925,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "studio",
+        "hotel",
         "seaside",
-        "mountain",
-        "hotel"
+        "mountain"
       ],
       "keywords": [
         "luxury hotel",
@@ -2997,8 +2978,8 @@
       "attributes": [
         "mountain",
         "forest",
-        "garden",
         "river",
+        "garden",
         "heritage"
       ],
       "keywords": [
@@ -3049,8 +3030,8 @@
         "seaside",
         "mountain",
         "forest",
-        "garden",
-        "river"
+        "river",
+        "garden"
       ],
       "keywords": [
         "camphor forest",
@@ -3102,11 +3083,10 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
+        "farm",
         "mountain",
-        "forest",
         "garden",
-        "heritage",
-        "farm"
+        "heritage"
       ],
       "keywords": [
         "cape dutch",
@@ -3153,8 +3133,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "vineyard"
+        "vineyard",
+        "mountain"
       ],
       "keywords": [
         "tuscan",
@@ -3202,11 +3182,10 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "forest",
         "vineyard",
+        "river",
         "garden",
-        "river"
+        "heritage"
       ],
       "keywords": [
         "cape dutch manor",
@@ -3253,8 +3232,8 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
         "vineyard",
+        "mountain",
         "garden",
         "heritage",
         "modern"
@@ -3304,10 +3283,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "studio",
+        "gallery",
         "industrial",
-        "modern",
-        "gallery"
+        "modern"
       ],
       "keywords": [
         "contemporary art museum",
@@ -3355,9 +3333,9 @@
       "region": "Western Cape",
       "kind": "venue",
       "attributes": [
-        "mountain",
-        "forest",
         "vineyard",
+        "farm",
+        "mountain",
         "garden",
         "heritage"
       ],
