@@ -1,37 +1,100 @@
 {
   "version": 1,
-  "updated": "2026-08-24",
+  "updated": "2026-08-26",
   "venues": [
     {
-      "id": "boland-vineyard-estate",
-      "name": "Boland Vineyard Estate",
-      "town": "Stellenbosch",
-      "area": "Cape Winelands",
+      "id": "auberge-burgundy",
+      "name": "Auberge Burgundy",
+      "town": "Hermanus",
+      "area": "Hermanus Central",
       "region": "Western Cape",
+      "kind": "venue",
       "attributes": [
+        "seaside",
+        "garden",
+        "urban",
+        "pool",
+        "hotel"
+      ],
+      "keywords": [
+        "provenal",
+        "french country",
+        "boutique hotel",
+        "courtyard garden",
+        "pool",
+        "stone and stucco",
+        "sea views",
+        "walker bay",
+        "old harbour",
+        "promenade",
+        "central hermanus",
+        "architectural",
+        "couples session",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Offered as similar in building and aesthetic to Moya's, though without the vineyard or mountains."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A family-run boutique hotel \"set opposite the Old Harbour on Hermanus' iconic seafront promenade,\" built around \"Provençal elegance\" and French countryside inspiration. Has an outdoor pool and courtyard garden described as \"a peaceful retreat within Hermanus' CBD,\" with individually styled sea-facing rooms overlooking Walker Bay, some with wood-burning fireplaces and balconies.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "avontuur-estate",
+      "name": "Avontuur Estate",
+      "town": "Somerset West",
+      "area": "Helderberg",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "seaside",
+        "mountain",
         "vineyard",
         "garden",
-        "mountain"
+        "modern"
       ],
       "keywords": [
-        "vines",
-        "oak trees",
-        "mountain backdrop",
-        "gravel road",
-        "stone walls",
-        "rose garden",
-        "golden hour",
-        "wine barrels",
-        "long driveway"
+        "r44",
+        "false bay views",
+        "table mountain views",
+        "manicured lawns",
+        "vine-covered patio",
+        "barrel cellar",
+        "thoroughbred horses",
+        "contemporary",
+        "wine estate",
+        "proposal",
+        "intimate wedding",
+        "accommodating",
+        "wedding"
       ],
-      "pricePerHour": 1200,
+      "access": {
+        "status": "arrangement",
+        "note": "The most-repeated single answer across three separate threads. Described as accommodating."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Tue – Sun",
-        "hours": "08:00 – 17:00",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "An award-winning estate on the R44 between Somerset West and Stellenbosch, known as \"the home of fine wine and fast horses,\" with \"incredible views spanning between False Bay and Table Mountain.\" Manicured lawns are used for ceremonies, with a vine-covered patio for pre-reception drinks, and a barrel cellar reception space for up to 140 that keeps the cellar's character behind a \"clean white contemporary aesthetic.\"",
       "contact": {
         "person": "",
         "phone": "",
@@ -43,195 +106,46 @@
       "listed": false
     },
     {
-      "id": "cathedral-peak-meadow",
-      "name": "Cathedral Peak Meadow",
-      "town": "Winterton",
-      "area": "Drakensberg",
-      "region": "KwaZulu-Natal",
-      "attributes": [
-        "mountain",
-        "forest",
-        "rustic"
-      ],
-      "keywords": [
-        "open meadow",
-        "mountain peaks",
-        "stream",
-        "wild grass",
-        "mist",
-        "big sky",
-        "hiking trail",
-        "rocks",
-        "pine trees"
-      ],
-      "pricePerHour": 600,
-      "availability": {
-        "days": "Daily",
-        "hours": "06:00 – 18:00",
-        "note": ""
-      },
-      "photos": [],
-      "description": "",
-      "contact": {
-        "person": "",
-        "phone": "",
-        "whatsapp": "",
-        "email": "",
-        "website": "",
-        "address": ""
-      },
-      "listed": false
-    },
-    {
-      "id": "dune-break-cottage",
-      "name": "Dune Break Cottage",
-      "town": "Jeffreys Bay",
-      "area": "Sunshine Coast",
-      "region": "Eastern Cape",
-      "attributes": [
-        "beach",
-        "seaside",
-        "rustic"
-      ],
-      "keywords": [
-        "sand dunes",
-        "driftwood",
-        "wooden deck",
-        "ocean",
-        "tidal pools",
-        "weathered timber",
-        "sunrise",
-        "milkwood trees",
-        "beach path"
-      ],
-      "pricePerHour": 550,
-      "availability": {
-        "days": "Mon – Sun",
-        "hours": "06:30 – 19:00",
-        "note": ""
-      },
-      "photos": [],
-      "description": "",
-      "contact": {
-        "person": "",
-        "phone": "",
-        "whatsapp": "",
-        "email": "",
-        "website": "",
-        "address": ""
-      },
-      "listed": false
-    },
-    {
-      "id": "elgin-apple-orchard",
-      "name": "Elgin Apple Orchard",
-      "town": "Grabouw",
-      "area": "Overberg",
+      "id": "bakoven-beach",
+      "name": "Bakoven Beach",
+      "town": "Cape Town",
+      "area": "Bakoven",
       "region": "Western Cape",
-      "attributes": [
-        "orchard",
-        "farm",
-        "garden"
-      ],
-      "keywords": [
-        "apple trees",
-        "blossom",
-        "rows of trees",
-        "farm shed",
-        "dirt track",
-        "dappled light",
-        "picnic lawn",
-        "mountains",
-        "autumn colour"
-      ],
-      "pricePerHour": 700,
-      "availability": {
-        "days": "Mon – Fri",
-        "hours": "08:00 – 16:00",
-        "note": ""
-      },
-      "photos": [],
-      "description": "",
-      "contact": {
-        "person": "",
-        "phone": "",
-        "whatsapp": "",
-        "email": "",
-        "website": "",
-        "address": ""
-      },
-      "listed": false
-    },
-    {
-      "id": "farmhouse-on-the-vaal",
-      "name": "Farmhouse on the Vaal",
-      "town": "Parys",
-      "area": "Vaal Triangle",
-      "region": "Free State",
-      "attributes": [
-        "farm",
-        "river",
-        "rustic"
-      ],
-      "keywords": [
-        "river bank",
-        "willow trees",
-        "old farmhouse",
-        "corrugated iron",
-        "open veld",
-        "reeds",
-        "wooden jetty",
-        "fire pit",
-        "sunset over water"
-      ],
-      "pricePerHour": 450,
-      "availability": {
-        "days": "Daily",
-        "hours": "07:00 – 18:00",
-        "note": ""
-      },
-      "photos": [],
-      "description": "",
-      "contact": {
-        "person": "",
-        "phone": "",
-        "whatsapp": "",
-        "email": "",
-        "website": "",
-        "address": ""
-      },
-      "listed": false
-    },
-    {
-      "id": "glasshouse-studio-rosebank",
-      "name": "Glasshouse Studio Rosebank",
-      "town": "Johannesburg",
-      "area": "Rosebank",
-      "region": "Gauteng",
+      "kind": "public",
       "attributes": [
         "studio",
-        "modern",
-        "minimal"
+        "beach",
+        "seaside"
       ],
       "keywords": [
-        "cyclorama",
-        "white cyc",
-        "natural light",
-        "skylight",
-        "seamless backdrop",
-        "studio lighting",
-        "concrete floor",
-        "blackout blinds",
-        "changing room"
+        "granite boulders",
+        "secluded nooks",
+        "natural windbreak",
+        "small beach",
+        "rocky",
+        "sunset colours",
+        "photogenic",
+        "quiet",
+        "residential",
+        "camps bay",
+        "llandudno",
+        "vow renewal",
+        "proposal",
+        "permit query",
+        "wedding"
       ],
-      "pricePerHour": 1100,
+      "access": {
+        "status": "permit",
+        "note": "Permit question was raised for a vow renewal and left unresolved."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Mon – Sat",
-        "hours": "07:00 – 21:00",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "Defined by \"massive granite boulders that create secluded nooks and natural windbreaks,\" sitting between Camps Bay and Llandudno as \"a quiet coastal retreat.\" A small beach of soft sand and rocky patches in a residential setting, less crowded than its neighbours. At dusk \"the horizon lights up in hues of orange, pink, and purple, creating a magical backdrop against the ocean and boulders,\" and the granite against the Atlantic is called exceptionally photogenic.",
       "contact": {
         "person": "",
         "phone": "",
@@ -243,35 +157,43 @@
       "listed": false
     },
     {
-      "id": "highveld-warehouse",
-      "name": "Highveld Warehouse",
-      "town": "Pretoria",
-      "area": "Pretoria East",
-      "region": "Gauteng",
+      "id": "cape-town-city-hall",
+      "name": "Cape Town City Hall",
+      "town": "Cape Town",
+      "area": "City Centre",
+      "region": "Western Cape",
+      "kind": "venue",
       "attributes": [
-        "industrial",
-        "warehouse",
+        "heritage",
         "urban"
       ],
       "keywords": [
-        "brick wall",
-        "steel beams",
-        "loading dock",
-        "raw concrete",
-        "high ceilings",
-        "graffiti",
-        "roller door",
-        "exposed pipes",
-        "industrial windows"
+        "edwardian",
+        "heritage building",
+        "marble staircase",
+        "stained glass",
+        "mosaic floor",
+        "grand hall",
+        "pipe organ",
+        "clock tower",
+        "grand parade",
+        "cbd",
+        "historic",
+        "public building",
+        "sandstone"
       ],
-      "pricePerHour": 800,
+      "access": {
+        "status": "arrangement",
+        "note": "A public civic building — access to the Grand Hall and marble staircase needs to be arranged."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Mon – Sat",
-        "hours": "08:00 – 18:00",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "Described as \"an Edwardian masterpiece\" built in 1905, one of the oldest and most central public spaces in the city. The interior carries stained glass, mosaic flooring and \"a spectacular marble staircase,\" with a Grand Hall housing a 3,165-pipe organ. The clock tower over the Grand Parade holds bells modelled on Big Ben, and the balcony is where Mandela spoke on his release.",
       "contact": {
         "person": "",
         "phone": "",
@@ -283,35 +205,43 @@
       "listed": false
     },
     {
-      "id": "indigo-bay-villa",
-      "name": "Indigo Bay Villa",
-      "town": "Umhlanga",
-      "area": "North Coast",
-      "region": "KwaZulu-Natal",
+      "id": "chapman-s-peak-drive",
+      "name": "Chapman's Peak Drive",
+      "town": "Cape Town",
+      "area": "Chapman's Peak",
+      "region": "Western Cape",
+      "kind": "public",
       "attributes": [
         "seaside",
-        "modern",
-        "pool"
+        "mountain"
       ],
       "keywords": [
-        "infinity pool",
-        "sea view",
-        "white architecture",
-        "palm trees",
-        "sun deck",
-        "glass doors",
-        "marble",
-        "tropical garden",
-        "ocean breeze"
+        "coastal drive",
+        "cliffs",
+        "hairpin bends",
+        "ocean views",
+        "viewpoints",
+        "pull-offs",
+        "picnic spots",
+        "sunset",
+        "dramatic",
+        "iconic",
+        "toll road",
+        "proposal",
+        "engagement"
       ],
-      "pricePerHour": 1400,
+      "access": {
+        "status": "fee",
+        "note": "A toll road. More than sixty picnic tables, benches and pull-offs are set along the route."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Tue – Sun",
-        "hours": "07:00 – 17:00",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "A nine-kilometre coastal route between Hout Bay and Noordhoek with 114 curves cut around a 593m peak, called \"one of the most spectacular marine drives in the world.\" Climbs steeply from the Hout Bay harbour to Chapman's Point with continuous ocean views over sandy bays before dropping to Noordhoek. More than sixty picnic tables and benches, plus pull-offs and viewing areas, are set along the route.",
       "contact": {
         "person": "",
         "phone": "",
@@ -323,35 +253,44 @@
       "listed": false
     },
     {
-      "id": "jacaranda-manor",
-      "name": "Jacaranda Manor",
-      "town": "Polokwane",
-      "area": "Capricorn",
-      "region": "Limpopo",
+      "id": "church-square-pretoria",
+      "name": "Church Square, Pretoria",
+      "town": "Pretoria",
+      "area": "Pretoria Central",
+      "region": "Gauteng",
+      "kind": "public",
       "attributes": [
         "heritage",
-        "garden",
-        "manor"
+        "urban"
       ],
       "keywords": [
-        "jacaranda trees",
-        "purple blossom",
-        "victorian architecture",
-        "wide staircase",
-        "chandelier",
-        "wrought iron",
-        "formal garden",
-        "veranda",
-        "antique furniture"
+        "historic square",
+        "grand facades",
+        "palace of justice",
+        "old raadsaal",
+        "colonnades",
+        "statue",
+        "benches",
+        "open plaza",
+        "urban",
+        "architectural",
+        "old money",
+        "sunrise shoot",
+        "pretoria cbd",
+        "sunrise"
       ],
-      "pricePerHour": 500,
+      "access": {
+        "status": "free",
+        "note": "An open public plaza. The chat noted everyone recommends shooting it at sunrise."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Mon – Sat",
-        "hours": "08:00 – 17:00",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "An open historic plaza ringed by the Palace of Justice, the Old Raadsaal and the General Post Office, with Tudor Chambers and the Netherlands Bank nearby — a set of facades that \"captivate architecture enthusiasts.\" A statue of Paul Kruger stands at the centre, replacing an ornate fountain now at the zoo. Still functions as a working social space, with \"students, office workers and tourists sitting on the benches in the shade.\"",
       "contact": {
         "person": "",
         "phone": "",
@@ -363,120 +302,45 @@
       "listed": false
     },
     {
-      "id": "karoo-salt-flats",
-      "name": "Karoo Salt Flats",
-      "town": "Sutherland",
-      "area": "Great Karoo",
-      "region": "Northern Cape",
+      "id": "d-aria",
+      "name": "D'Aria",
+      "town": "Durbanville",
+      "area": "Durbanville Wine Valley",
+      "region": "Western Cape",
+      "kind": "venue",
       "attributes": [
-        "desert",
-        "minimal",
-        "outdoor"
-      ],
-      "keywords": [
-        "salt pan",
-        "flat horizon",
-        "big sky",
-        "cracked earth",
-        "stark landscape",
-        "night sky",
-        "stars",
-        "empty space",
-        "harsh light"
-      ],
-      "pricePerHour": 400,
-      "availability": {
-        "days": "Daily",
-        "hours": "05:30 – 19:30",
-        "note": ""
-      },
-      "photos": [
-        "photos/karoo-salt-flats/1.jpg",
-        "photos/karoo-salt-flats/2.jpg",
-        "photos/karoo-salt-flats/3.jpg"
-      ],
-      "description": "",
-      "contact": {
-        "person": "",
-        "phone": "",
-        "whatsapp": "",
-        "email": "",
-        "website": "",
-        "address": ""
-      },
-      "listed": false,
-      "thumb": "photos/karoo-salt-flats/thumb.jpg"
-    },
-    {
-      "id": "lowveld-riverside-lodge",
-      "name": "Lowveld Riverside Lodge",
-      "town": "Hazyview",
-      "area": "Panorama Route",
-      "region": "Mpumalanga",
-      "attributes": [
-        "river",
         "forest",
-        "lodge"
-      ],
-      "keywords": [
-        "river",
-        "thatch roof",
-        "indigenous forest",
-        "wooden walkway",
-        "ferns",
-        "waterfall",
-        "rocks",
-        "forest canopy",
-        "birdsong"
-      ],
-      "pricePerHour": 750,
-      "availability": {
-        "days": "Daily",
-        "hours": "06:00 – 18:00",
-        "note": ""
-      },
-      "photos": [],
-      "description": "",
-      "contact": {
-        "person": "",
-        "phone": "",
-        "whatsapp": "",
-        "email": "",
-        "website": "",
-        "address": ""
-      },
-      "listed": false
-    },
-    {
-      "id": "magalies-rock-amphitheatre",
-      "name": "Magalies Rock Amphitheatre",
-      "town": "Hartbeespoort",
-      "area": "Magaliesberg",
-      "region": "North West",
-      "attributes": [
-        "mountain",
-        "outdoor",
+        "vineyard",
+        "garden",
         "rustic"
       ],
       "keywords": [
-        "rock face",
-        "natural amphitheatre",
-        "boulders",
-        "cliff",
-        "panoramic view",
-        "aloe plants",
-        "dusty ground",
-        "sunset ridge",
-        "open sky"
+        "poplar forest",
+        "magic forest",
+        "dappled light",
+        "bridge",
+        "vineyards",
+        "lawns",
+        "cottages",
+        "event hall",
+        "fairy-tale",
+        "matric farewell",
+        "wine-bottle arrangement",
+        "shoots allowed",
+        "responsive management"
       ],
-      "pricePerHour": 650,
+      "access": {
+        "status": "arrangement",
+        "note": "Allows shoots via management. Instead of a cash fee they ask you to buy a set number of wine bottles. Noted as the only farm on the Durbanville wine route that responded to enquiries."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Wed – Sun",
-        "hours": "07:00 – 18:00",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "A four-star event and wedding venue set in vineyards in Durbanville. Its distinctive outdoor feature is the \"Magic Forest\" — a poplar woodland reached over a small bridge, used for ceremonies and intimate gatherings, with rustling leaves and dappled sunlight. Twelve serviced guest cottages sit among the vines, and the main hall takes groups up to 450. Positions itself around personalised service and \"every bride deserves their own fairy-tale.\"",
       "contact": {
         "person": "",
         "phone": "",
@@ -488,79 +352,3042 @@
       "listed": false
     },
     {
-      "id": "atlantic-seaboard-loft",
-      "name": "A Newname Venue",
-      "town": "Cape Town",
-      "area": "Atlantic Seaboard",
+      "id": "de-meye",
+      "name": "De Meye",
+      "town": "Stellenbosch",
+      "area": "Muldersvlei",
       "region": "Western Cape",
-      "attributes": [
-        "seaside",
-        "modern",
-        "industrial"
-      ],
-      "keywords": [
-        "sea view",
-        "concrete",
-        "large windows",
-        "natural light",
-        "balcony",
-        "white walls",
-        "open plan",
-        "city backdrop",
-        "sunset light"
-      ],
-      "pricePerHour": 950,
-      "availability": {
-        "days": "Mon – Sat",
-        "hours": "07:00 – 18:00",
-        "note": ""
-      },
-      "photos": [
-        "photos/atlantic-seaboard-loft/1.jpg",
-        "photos/atlantic-seaboard-loft/2.jpg"
-      ],
-      "description": "",
-      "contact": {
-        "person": "Johnathan Doeve",
-        "phone": "+2712345678",
-        "whatsapp": "",
-        "email": "test@test.com",
-        "website": "test.com",
-        "address": ""
-      },
-      "listed": false,
-      "thumb": "photos/atlantic-seaboard-loft/thumb.jpg"
-    },
-    {
-      "id": "noordhoek-forest-glade",
-      "name": "Noordhoek Forest Glade",
-      "town": "Cape Town",
-      "area": "South Peninsula",
-      "region": "Western Cape",
+      "kind": "venue",
       "attributes": [
         "forest",
-        "beach",
-        "garden"
+        "vineyard",
+        "garden",
+        "farm",
+        "rustic"
       ],
       "keywords": [
-        "milkwood forest",
-        "forest clearing",
-        "dappled light",
-        "fern undergrowth",
-        "moss",
-        "long beach",
-        "horses",
-        "sand path",
-        "sea mist"
+        "oak trees",
+        "oak-lined dirt road",
+        "garden dining",
+        "antique furniture",
+        "vineyard views",
+        "lawns",
+        "family farm",
+        "intimate",
+        "rustic",
+        "fireplaces",
+        "calm",
+        "wedding venue",
+        "sixty guests",
+        "wedding"
       ],
-      "pricePerHour": 900,
+      "access": {
+        "status": "unknown",
+        "note": "Came up as an intimate wedding venue and an emergency replacement; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
       "availability": {
-        "days": "Mon – Sun",
-        "hours": "06:30 – 18:30",
+        "days": "",
+        "hours": "",
         "note": ""
       },
       "photos": [],
-      "description": "",
+      "description": "A five-generation family farm outside Stellenbosch, approached along \"a dirt road lined with Water Oak trees.\" The restaurant sets antique tables and chairs under oak shade, spaced apart for privacy, overlooking a Cabernet Sauvignon vineyard, with wood-burning fireplaces indoors in cooler months. The setting is described as one where \"a sense of calm washes over you.\" The chat singled out the food as incredible.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "de-warenmarkt",
+      "name": "De Warenmarkt",
+      "town": "Stellenbosch",
+      "area": "Stellenbosch Central",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "heritage"
+      ],
+      "keywords": [
+        "food market",
+        "heritage building",
+        "18th century",
+        "coffee",
+        "communal tables",
+        "sunny patio",
+        "cosy lounge",
+        "market stalls",
+        "central stellenbosch",
+        "cosy",
+        "arranged in advance",
+        "engagement",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "A couple shoot worked there when arranged beforehand. Avoid busy periods."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Occupies \"a cherished 18th-century heritage building in the heart of Stellenbosch's vibrant cultural district,\" combining an oyster bar, wine lounge, communal dining room and food stalls. The atmosphere balances buzzy energy with intimacy — cosy lounges, sunny patios and shared tables — with a coffee roaster, bakery, butcher and creperie lining the walls.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "deer-park",
+      "name": "Deer Park",
+      "town": "Cape Town",
+      "area": "Vredehoek",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "mountain",
+        "forest",
+        "river",
+        "fynbos"
+      ],
+      "keywords": [
+        "forest",
+        "tree canopy",
+        "dappled light",
+        "leafy paths",
+        "mountain stream",
+        "grassy meadow",
+        "fynbos",
+        "table mountain slopes",
+        "city views",
+        "vredehoek",
+        "no permit needed",
+        "no drones",
+        "family friendly",
+        "close to town",
+        "family shoot"
+      ],
+      "access": {
+        "status": "free",
+        "note": "The group confirmed shooting is allowed without a permit. No drones."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A small reserve on the slopes of Table Mountain, running from \"scrubby fynbos and carpeting succulents to statuesque trees and leafy paths.\" Grassy meadows, tree-lined trails and a mountain stream with small splash pools, and views with \"the city on the one side, and Table Mountain rising like a craggy tidal wave on the other.\" Dense canopy gives cool shaded pathways alongside sun-drenched open picnic areas. Wooden walkways and gravel paths suit a range of fitness levels.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "dennedal-avenue-tokai",
+      "name": "Dennedal Avenue, Tokai",
+      "town": "Cape Town",
+      "area": "Tokai",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "forest",
+        "garden"
+      ],
+      "keywords": [
+        "tree-lined avenue",
+        "residential street",
+        "tokai",
+        "dennendal",
+        "near tokai park",
+        "family shoot",
+        "local knowledge",
+        "no fee",
+        "informal spot"
+      ],
+      "access": {
+        "status": "free",
+        "note": "A residential street offered as local knowledge, not a formal venue. No fee."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A residential avenue in the Dennendal pocket of Tokai, on the approach to Tokai Park and the forest. It has no website or listing of its own; it appears in local guides only as an address for the surrounding Tokai parks and gardens, and was offered in the chat as a known local spot rather than a formal venue.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "du-toitskloof-pass",
+      "name": "Du Toitskloof Pass",
+      "town": "Paarl",
+      "area": "Du Toitskloof",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "mountain",
+        "fynbos"
+      ],
+      "keywords": [
+        "mountain pass",
+        "winding road",
+        "hairpin bends",
+        "cliff faces",
+        "sheer peaks",
+        "valley views",
+        "elevated viewpoint",
+        "fynbos",
+        "quiet road",
+        "alternative to chapmans peak",
+        "dramatic",
+        "scenic drive"
+      ],
+      "access": {
+        "status": "free",
+        "note": "A public mountain road. Most traffic now takes the tunnel, leaving the pass quiet."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A 48km mountain route on the old road between Paarl and Worcester, climbing 820m and winding \"its way up the side of the mountain\" beneath \"sheer mountain peaks and cliff faces.\" From the summit on a clear day you can see Table Mountain and sweeping valley views, plus \"an excellent take of Paarl rock one would not usually see.\" Built during the Second World War by Italian prisoners of war; most traffic now takes the tunnel, leaving the pass quiet.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "durbanville-hills",
+      "name": "Durbanville Hills",
+      "town": "Durbanville",
+      "area": "Durbanville Wine Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "vineyard",
+        "farm"
+      ],
+      "keywords": [
+        "hilltop",
+        "table mountain view",
+        "table bay view",
+        "olive grove",
+        "olive trees",
+        "terrace",
+        "vineyards",
+        "sunset",
+        "restaurant",
+        "live music",
+        "matric farewell",
+        "payment terms unclear"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Photos were allowed there the previous year, with payment terms unclear."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A hilltop estate twenty minutes from the city centre with \"a spectacular view of Table Mountain and Table Bay.\" Indoor lounge seating and an outdoor Olive Grove Bistro set beneath olive trees, plus a restaurant with Table Mountain views. Family- and dog-friendly outdoors, wheelchair accessible, with a summer live-music series.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "eden-forest-paradyskloof",
+      "name": "Eden Forest / Paradyskloof",
+      "town": "Stellenbosch",
+      "area": "Paradyskloof",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "mountain",
+        "forest"
+      ],
+      "keywords": [
+        "pine forest",
+        "gum trees",
+        "filtered light",
+        "dappled shade",
+        "gentle trails",
+        "meadow",
+        "open field",
+        "mountain backdrop",
+        "jonkershoek",
+        "free access",
+        "easy parking",
+        "sunrise",
+        "forest vibes",
+        "no power lines",
+        "couple shoot",
+        "group shoot"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Free access, easy parking, minimal facilities. The open field across the road is the group's repeated recommendation for a field-and-mountain backdrop."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "At the entrance to the Jonkershoek Valley, \"shaded by tall pine and gum trees\" with \"filtered light\" and \"gentle trails that weave into the surrounding mountain slopes.\" Meadows and mountain backdrops, with clearings that open up for quiet moments and photography; birdsong through the canopy and an \"almost untouched atmosphere.\" Parking is available but facilities are minimal. The open field across the road is the group's repeated recommendation for a field-and-mountain backdrop.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "eenzaamheid",
+      "name": "Eenzaamheid",
+      "town": "Paarl",
+      "area": "Agter-Paarl",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "mountain",
+        "vineyard",
+        "heritage",
+        "hotel"
+      ],
+      "keywords": [
+        "agter-paarl",
+        "solitude",
+        "boutique winery",
+        "dryland vineyards",
+        "historic windmill",
+        "mountain views",
+        "grounds",
+        "tastings by appointment",
+        "weddings",
+        "conferences",
+        "seventh generation",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up as an emergency replacement wedding venue; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A boutique winery in Agter-Paarl whose name means \"solitude\" in Dutch, given in 1693 as a reference to \"its isolation from Cape Town\" at the time. Now run by a seventh-generation farmer producing handcrafted wines from mature dryland vineyards, with mountain views across the surrounding landscape. A historic windmill and the wider grounds serve as the backdrop for weddings, tastings and conferences.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "glen-beach",
+      "name": "Glen Beach",
+      "town": "Cape Town",
+      "area": "Camps Bay",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "beach"
+      ],
+      "keywords": [
+        "secret beach",
+        "secluded",
+        "white sand",
+        "granite boulders",
+        "sheltered cove",
+        "surf",
+        "sunset",
+        "sunset picnic",
+        "camps bay",
+        "limited parking",
+        "quiet",
+        "hidden access"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Raised as the next-door alternative when permit trouble at Maiden's Cove was a risk. Parking is very limited."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A \"small secluded beach\" between Maiden's Cove and Camps Bay with \"soft white sand and stunning blue waters,\" ringed by granite boulders that screen it from its neighbours. Hidden from Victoria Road by luxury homes and vegetation, earning it a reputation as one of the city's \"secret beaches.\" Known for \"spectacular sunsets and sunset picnics\"; parking is limited, which keeps it quiet.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "groot-constantia",
+      "name": "Groot Constantia",
+      "town": "Cape Town",
+      "area": "Constantia",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "mountain",
+        "forest",
+        "vineyard",
+        "garden"
+      ],
+      "keywords": [
+        "oldest wine estate",
+        "cape dutch manor",
+        "historic werf",
+        "cellar",
+        "oak trees",
+        "vineyards",
+        "constantia valley",
+        "mountain backdrop",
+        "gardens",
+        "heritage",
+        "shoot fee charged"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "The group reported it charges a shoot fee."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Presents itself around the story of how \"one man's love for wine established South Africa's first wine farm in 1685,\" with heritage that stays \"alive and vibrant, like the vineyards.\" The werf holds the Cape Dutch manor house, the Cloete Cellar and the production cellar, along with two restaurants, set among vineyards below the Constantiaberg.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "groot-phesantekraal",
+      "name": "Groot Phesantekraal",
+      "town": "Durbanville",
+      "area": "Durbanville Wine Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "vineyard",
+        "heritage",
+        "industrial",
+        "farm",
+        "rustic"
+      ],
+      "keywords": [
+        "historic werf",
+        "cape dutch farmhouse",
+        "thatched stable",
+        "1767",
+        "cobblestones",
+        "dutch tiles",
+        "courtyard",
+        "vine pergola",
+        "glass tasting room",
+        "wheat fields",
+        "vineyards",
+        "livestock",
+        "rustic",
+        "matric farewell"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up for matric farewell shoots; terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A fourth-generation family farm dating to 1698, with \"wheat fields, vines, sheep with frolicking lambs\" and grazing buffalo, antelope and zebra. The original Cape Dutch farmhouse stands among the farm buildings; the restaurant occupies \"the historic thatched stable (built in 1767)\" with original wooden mangers, blue-and-white Dutch tiles and cobblestone floors. A courtyard with a vine-covered pergola links through to a glass-walled tasting room. The mood is \"serene, rustic and welcoming.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "helderberg-nature-reserve",
+      "name": "Helderberg Nature Reserve",
+      "town": "Somerset West",
+      "area": "Helderberg",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "seaside",
+        "mountain",
+        "garden",
+        "river"
+      ],
+      "keywords": [
+        "nature reserve",
+        "helderberg mountain slopes",
+        "false bay views",
+        "fynbos",
+        "dam",
+        "indigenous garden",
+        "walking trails",
+        "picnic area",
+        "mountain backdrop",
+        "by arrangement",
+        "seasonal condition",
+        "group shoot"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Group shoots by arrangement. A recent report said it looked beautiful, contrary to worries it would be dry."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Described by the reserve as \"situated in Somerset West on the slopes of the beautiful Helderberg Mountain overlooking False Bay,\" and as \"our corner of paradise,\" supporting a wide variety of plant and animal life with nature walks and picnic areas. The chat's own recent report was that it looked beautiful, contrary to the asker's worry that it would be dry and dead.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "houghton-1938",
+      "name": "Houghton 1938",
+      "town": "Johannesburg",
+      "area": "Houghton",
+      "region": "Gauteng",
+      "kind": "venue",
+      "attributes": [
+        "heritage"
+      ],
+      "keywords": [
+        "cape dutch revival",
+        "1938 mansion",
+        "heritage home",
+        "stately",
+        "old money",
+        "elegant",
+        "manicured grounds",
+        "exclusive use",
+        "small capacity",
+        "photoshoots allowed",
+        "houghton",
+        "johannesburg"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Explicitly lists photoshoots, pre-wedding and getting-ready shoots and proposals among the occasions it hosts. Capped at forty guests, exclusive-use bookings, sound restrictions."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Presents itself as \"Johannesburg's most elegant venue\" — a Cape Dutch Revival mansion designed in 1938, set on a double Houghton acre, offering an \"exclusive, beautiful and stately location\" with an aesthetic of \"laidback elegance.\" Explicitly lists photoshoots, pre-wedding and getting-ready shoots and proposals among the occasions it hosts. Capped at forty guests, exclusive-use bookings, with sound restrictions given the residential setting.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "johannesdal-banhoek-valley",
+      "name": "Johannesdal (Banhoek Valley)",
+      "town": "Stellenbosch",
+      "area": "Banhoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "garden",
+        "heritage",
+        "farm"
+      ],
+      "keywords": [
+        "banhoek valley",
+        "mountain vistas",
+        "vineyards",
+        "manicured gardens",
+        "green lawns",
+        "secluded",
+        "historic farm",
+        "contemporary",
+        "indoor and outdoor",
+        "wedding venue",
+        "reference image"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Where a couple's own reference image had been taken. Shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A historic farm in the Banhoek Valley between Stellenbosch and Franschhoek, \"reimagined as a place of shared moments, where legacy, landscape, and contemporary vision come together.\" Framed by vineyards, manicured gardens and mountain vistas, in a setting the venue says \"feels both secluded and unforgettable,\" with flexible indoor and outdoor spaces.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "jonkershoek-nature-reserve",
+      "name": "Jonkershoek Nature Reserve",
+      "town": "Stellenbosch",
+      "area": "Jonkershoek Valley",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "mountain",
+        "forest",
+        "river",
+        "heritage"
+      ],
+      "keywords": [
+        "mountain backdrop",
+        "dramatic peaks",
+        "valley",
+        "fynbos",
+        "pine",
+        "waterfalls",
+        "rock pools",
+        "rivers",
+        "circular drive",
+        "green grass",
+        "world heritage",
+        "hiking",
+        "nature reserve",
+        "entry fee"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "CapeNature reserve with an entry fee. A 10km circular gravel road gives vehicle access to the valley."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Roughly 9,800 hectares taking in \"the majestic Jonkershoek Mountains and parts of the Jonkershoek valley,\" about 9km from Stellenbosch. Rugged peaks feed the Eerste, Berg, Lourens and Riviersonderend rivers, and rock pools and waterfalls are scattered through the trails. Over 1,100 plant species; a 10km circular gravel road gives vehicle access to the valley, making the scenery easy to reach.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "kogel-bay",
+      "name": "Kogel Bay",
+      "town": "Gordon's Bay",
+      "area": "Clarence Drive",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "beach",
+        "seaside",
+        "mountain",
+        "fynbos"
+      ],
+      "keywords": [
+        "beach",
+        "mountains",
+        "clarence drive",
+        "fynbos",
+        "undeveloped",
+        "dramatic coastline",
+        "left-hand beach",
+        "short scramble",
+        "one long stretch",
+        "family shoot",
+        "newborn",
+        "proposal",
+        "dark skies",
+        "accessible"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Two paths lead down from the parking. For a family with a newborn the left-hand beach is the better choice — no path is level, but all are manageable taken slowly."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Set between Gordon's Bay and Rooi Els along Clarence Drive, \"4 km of fynbos and sandy beach that is surrounded by mountains,\" largely undeveloped, with the coastal drive itself described as breathtaking. No city light pollution means notably clear night skies. The group's practical detail: two paths lead down from the parking, and for a family with a newborn the left-hand beach is the better choice — no path is completely level, but all are manageable taken slowly, and once you're down it's essentially one long stretch rather than distinct spots.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "la-cotte-farm",
+      "name": "La Cotte Farm",
+      "town": "Franschhoek",
+      "area": "Franschhoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "vineyard",
+        "river",
+        "heritage"
+      ],
+      "keywords": [
+        "franschhoek",
+        "mont rochelle slopes",
+        "vineyards",
+        "olive groves",
+        "fig trees",
+        "river",
+        "renosterveld",
+        "1836 manor house",
+        "water mill",
+        "patisserie",
+        "hillside",
+        "modest shoot fee",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "Formerly free to shoot, now charging, but at a rate the group considered modest by comparison."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A 32-hectare historic estate \"on the slopes of the Mont Rochelle mountains\" in the Franschhoek valley, described as \"a timeless hillside sanctuary.\" Unirrigated low-yielding vineyards sit alongside olive groves and mature fig trees and preserved indigenous renosterveld. The La Cotte River runs along the southern boundary. Architecture includes an 1836 manor house and \"Africa's oldest working water mill,\" now a patisserie.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "la-pineta-forest-44",
+      "name": "La Pineta / Forest 44",
+      "town": "Stellenbosch",
+      "area": "Annandale",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "forest",
+        "vineyard"
+      ],
+      "keywords": [
+        "pine forest",
+        "restaurant",
+        "event venue",
+        "annandale road",
+        "no on-site photo spots",
+        "forest opposite",
+        "open field",
+        "wedding venue",
+        "reception",
+        "stellenbosch outskirts",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "The group's own assessment: nowhere on the property for couple photos. Use the forest opposite, or Eden/Paradyskloof a few minutes away."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"Nestled in a pine forest in the heart of the Stellenbosch Winelands,\" off Annandale Road, combining the La Pineta restaurant with the Forest 44 event venue. The group's own assessment: the food is a strong point but there is nowhere on the property for couple photos, and the surrounding options within a ten-to-fifteen-minute radius are open field and forest.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "la-roche-estate",
+      "name": "La Roche Estate",
+      "town": "Franschhoek",
+      "area": "Franschhoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "farm"
+      ],
+      "keywords": [
+        "island venue",
+        "lake",
+        "glass arches",
+        "water reflections",
+        "italian roof tiles",
+        "wooden beams",
+        "festival hall",
+        "secluded",
+        "franschhoek",
+        "wow factor",
+        "indoor option",
+        "rain-proof",
+        "luxury wedding",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Put forward as a bucket-list wedding venue for its wow factor; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A secluded Franschhoek estate with two venues. The Sanctuary sits on an island in a lake with \"high-arched glass entryways\" and \"breathtaking views and water on all sides,\" with reflections on calm days; it seats up to 120. The Festival Hall is Italian-inspired with \"wooden beams, and Italian roof tiles\" creating a \"warm, celebratory environment,\" seating 180, with an adjoining lounge. Runs on its own solar farm.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "lanzerac",
+      "name": "Lanzerac",
+      "town": "Stellenbosch",
+      "area": "Jonkershoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "garden",
+        "heritage",
+        "modern"
+      ],
+      "keywords": [
+        "cape dutch manor",
+        "oak-lined avenue",
+        "historic estate",
+        "jonkershoek valley",
+        "mountain views",
+        "vineyards",
+        "gardens",
+        "hotel",
+        "spa",
+        "old-world charm",
+        "upmarket",
+        "graduation",
+        "engagement"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Used as an outdoor graduation venue; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A 330-year-old estate in the Jonkershoek Valley \"steeped in a history dating back to 1692,\" which produced the world's first bottled Pinotage. Set among \"towering mountains and surrounded by rows of lush vineyards,\" with guest spaces balancing \"old-world charm and rich Cape heritage\" against contemporary design. Runs a manor kitchen, taphuis, lounge, deli, spa and event spaces.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "let-s-get-reel-studios",
+      "name": "Let's Get Reel Studios",
+      "town": "Cape Town",
+      "area": "Westlake",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio"
+      ],
+      "keywords": [
+        "podcast studio",
+        "film studio",
+        "photo studio",
+        "studio hire",
+        "infinity wall",
+        "podcast lounge",
+        "bar set",
+        "multicam",
+        "content creation",
+        "westlake",
+        "tokai",
+        "half day",
+        "full day",
+        "brandable set",
+        "podcast"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "Half-day and full-day studio rates."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A content creation studio offering film, photo and podcast studio hire, based in the Westlake/Tokai area. Facilities listed as a 12m infinity wall, a podcast lounge, a bar set and flexible shoot spaces. Available on half-day and full-day rates.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "llandudno-beach",
+      "name": "Llandudno Beach",
+      "town": "Cape Town",
+      "area": "Llandudno",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "beach",
+        "seaside",
+        "mountain",
+        "fynbos"
+      ],
+      "keywords": [
+        "cove",
+        "white sand",
+        "giant boulders",
+        "mountain flanks",
+        "fynbos",
+        "sunset",
+        "secluded",
+        "no commercial development",
+        "free parking",
+        "proposal setup",
+        "quiet",
+        "photogenic",
+        "proposal"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Free, decent parking. Usually not too busy, with large rocks either side to set up on."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"Nestled in a private and peaceful cove\" about 18km from the city centre, with the Twelve Apostles running off one side and Little Lion's Head and the Karbonkelberg the other. White sand, blue water and giant boulders scattered along the shore make it strikingly photogenic. Exclusivity is enforced by geography: one road in, minimal parking, no street lights and no shops. Indigenous fynbos covers the surrounding slopes.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "loch-lynne",
+      "name": "Loch Lynne",
+      "town": "Durbanville",
+      "area": "Durbanville Wine Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "industrial",
+        "farm",
+        "rustic"
+      ],
+      "keywords": [
+        "durbanville slopes",
+        "elevated",
+        "commanding views",
+        "countryside",
+        "grain silos",
+        "barn",
+        "vineyards",
+        "olive groves",
+        "chic",
+        "destination venue",
+        "weddings",
+        "matric farewell declined",
+        "matric farewell"
+      ],
+      "access": {
+        "status": "not-permitted",
+        "note": "A client was told shoots weren't allowed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"Situated on the slopes of Durbanville,\" described as \"a welcoming, chic venue in the heart of the Durbanville winelands – close to the city, but with the signature beauty and space of the countryside,\" with \"commanding views and unspoilt surrounds\" across 156 hectares at 305m elevation. Infrastructure includes grain silos, a barn, vineyards, olive groves and livestock, transformed into \"a destination venue for weddings, corporate functions and other bespoke events.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "maiden-s-cove",
+      "name": "Maiden's Cove",
+      "town": "Cape Town",
+      "area": "Clifton",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "beach",
+        "seaside",
+        "mountain",
+        "pool"
+      ],
+      "keywords": [
+        "tidal pool",
+        "granite boulders",
+        "rock pools",
+        "grassy area",
+        "twelve apostles view",
+        "clifton",
+        "camps bay",
+        "sunset",
+        "sunrise",
+        "ocean",
+        "whales",
+        "free access",
+        "permit risk",
+        "security patrols"
+      ],
+      "access": {
+        "status": "permit",
+        "note": "Security presence has increased. Most recent shoots went ahead unchallenged, but there is a real chance of being stopped."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A lookout between Clifton and Glen Beach with panoramic views of the Twelve Apostles range and the back of Table Mountain. A natural tidal pool sits among \"massive rounded boulders that protect the pool from the waves,\" with a grassy area for picnics and braais. Known for \"some of the most spectacular sunsets in South Africa\"; whales pass offshore between June and November.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "meerendal",
+      "name": "Meerendal",
+      "town": "Durbanville",
+      "area": "Durbanville Wine Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "heritage"
+      ],
+      "keywords": [
+        "historic estate 1702",
+        "cape dutch",
+        "oak avenue",
+        "vineyards",
+        "two restaurants",
+        "event grounds",
+        "trails",
+        "weddings",
+        "conferences",
+        "matric farewell",
+        "previously allowed",
+        "payment historically accepted"
+      ],
+      "access": {
+        "status": "not-permitted",
+        "note": "A client was told it wasn't allowed, which the group found odd given it has historically accepted payment for matric photos. Worth re-checking."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A family-owned estate twenty minutes from Cape Town with heritage spanning three centuries — \"Established in 1702, Meerendal's wine heritage started in 1714 when sixty thousand vines were planted,\" now over a hundred and fifty thousand vines. Two restaurants, accommodation, trail running and mountain biking, with grounds used for weddings, conferences and events; family friendly and wheelchair accessible.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "moonshot-cafe",
+      "name": "Moonshot Café",
+      "town": "Pretoria",
+      "area": "Waterkloof Glen",
+      "region": "Gauteng",
+      "kind": "venue",
+      "attributes": [
+        "urban",
+        "modern"
+      ],
+      "keywords": [
+        "sky bar",
+        "rooftop",
+        "fourth floor",
+        "city views",
+        "casual by day",
+        "upscale by night",
+        "caf",
+        "waterkloof glen",
+        "pretoria",
+        "events",
+        "urban",
+        "contemporary"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "A restaurant and sky bar positioning itself for any occasion; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"A one-of-a-kind restaurant on the fourth floor of the King Price building in Waterkloof Glen,\" Pretoria, working as a casual daytime dining spot and an upscale sky-bar in the evening. Positions itself as a venue \"for any and every occasion,\" with space-themed branding.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "morgenhof",
+      "name": "Morgenhof",
+      "town": "Stellenbosch",
+      "area": "Simonsberg",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "garden",
+        "heritage",
+        "fynbos"
+      ],
+      "keywords": [
+        "french style",
+        "chateau feel",
+        "simonsberg slopes",
+        "vineyards",
+        "fynbos",
+        "picnic lawns",
+        "courtyard",
+        "rose garden",
+        "restaurant",
+        "matric dance",
+        "no fee arrangement",
+        "social media exchange",
+        "proposal",
+        "matric farewell"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Hosted a matric dance shoot with no fee, asking only for permission to use the images on their socials."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A Stellenbosch estate of 74 hectares under vine with French heritage traced to a 1692 land grant and later Cointreau family ownership, on the slopes below the Simonsberg. Retains 22 hectares of fynbos as a Biodiversity and Wine Initiative member. Visitors picnic on the lawns, and the restaurant runs both winter lunches and seasonal outdoor dining.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "moya-s-vineyard",
+      "name": "Moya's Vineyard",
+      "town": "Hermanus",
+      "area": "Hemel-en-Aarde Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "garden",
+        "river",
+        "farm"
+      ],
+      "keywords": [
+        "hemel-en-aarde",
+        "private wine farm",
+        "vineyards",
+        "olive groves",
+        "manicured gardens",
+        "babilonstoring mountains",
+        "dam",
+        "lawns",
+        "barn",
+        "farmhouse",
+        "luxury villa",
+        "no lifestyle shoots"
+      ],
+      "access": {
+        "status": "not-permitted",
+        "note": "Does not allow lifestyle shoots. This was the reference a client loved, which prompted the search for a lookalike."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A luxury villa on a 45-hectare private wine farm in the Hemel-en-Aarde Valley, with vineyards, olive groves and manicured gardens looking to the Babilonstoring mountains and the distant coastline. A farmhouse and barn sleep up to twenty; grounds include a swimming dam, expansive lawns, multiple dining areas and sun-lounger decks. Markets itself as \"a modern sanctuary for guests wanting to recharge, reconnect and retreat.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "muldersvlei-estate",
+      "name": "Muldersvlei Estate",
+      "town": "Stellenbosch",
+      "area": "Muldersvlei",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "garden",
+        "heritage",
+        "farm",
+        "pool"
+      ],
+      "keywords": [
+        "working farm",
+        "restored stables",
+        "200-year-old buildings",
+        "gardens",
+        "lawns",
+        "vine-covered stoep",
+        "mountain views",
+        "pastoral",
+        "guesthouse",
+        "accommodating owners",
+        "wedding venue",
+        "muldersvlei",
+        "wedding"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "The group described the owners as really nice and the venue as lovely."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Built around \"an over 200-year-old building that originally served as stables and workers' quarters,\" restored into guest rooms on a working farm fifteen minutes from Stellenbosch, Paarl and Durbanville. Extensive gardens, vine-covered stoeps for warm-weather breakfasts, fireplaces in winter, and a pool set toward the manor house. Guest reviews single out the peaceful, pastoral setting. The group described the owners as really nice and the venue as lovely.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "nantes-estate",
+      "name": "Nantes Estate",
+      "town": "Paarl",
+      "area": "Paarl Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "mountain",
+        "vineyard",
+        "garden",
+        "heritage"
+      ],
+      "keywords": [
+        "manor house",
+        "imposing staircase",
+        "indoor staircase",
+        "open plan",
+        "balcony",
+        "formal gardens",
+        "topiary",
+        "fountain",
+        "victorian gazebo",
+        "vineyards",
+        "drakenstein mountains",
+        "paarl valley",
+        "functions venue",
+        "wedding venue"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "The group was looking for a grand indoor staircase with no venue or shoot fee; fee status unconfirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A functions venue \"surrounded by vineyards, panoramic views of the Paarl valley, and a backdrop of the Drakenstein mountain range.\" The manor house interior is entered via an \"imposing staircase,\" with completely open-plan first-floor spaces, a vista balcony overlooking vineyard and valley, and four decorated suites. Grounds include a sweeping driveway lined with vineyards, formal topiary gardens, a tiered fountain and a Victorian-style gazebo.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "natte-valleij",
+      "name": "Natte Valleij",
+      "town": "Klapmuts",
+      "area": "Simonsberg",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "vineyard",
+        "garden",
+        "heritage"
+      ],
+      "keywords": [
+        "whitewashed manor house",
+        "1715",
+        "old oak trees",
+        "lush gardens",
+        "simonsberg slopes",
+        "historic cellars",
+        "farm cottages",
+        "country",
+        "intimate",
+        "secret",
+        "klapmuts",
+        "wedding venue",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Described in the chat as nice and suitable for an intimate wedding; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Calls itself \"the best kept secret in the Winelands\" — a \"whitewashed Manor House\" dating to 1715 with \"old oak trees\" and \"lush gardens\" on the lower slopes of the Simonsberg, plus 300-year-old wine cellars. Four farm cottages offer \"authentic country life,\" with a pool and tennis court. Thirty-five minutes from Cape Town, between Paarl, Stellenbosch and Franschhoek.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "nitida",
+      "name": "Nitida",
+      "town": "Durbanville",
+      "area": "Durbanville Wine Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "heritage"
+      ],
+      "keywords": [
+        "durbanville wine valley",
+        "hoogeberg",
+        "vineyards",
+        "two restaurants",
+        "bistro",
+        "picnics",
+        "private events",
+        "historic cannon station",
+        "family friendly",
+        "dog friendly",
+        "matric farewell"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up for matric farewell shoots; terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "At the foot of the Hoogeberg in the Durbanville wine valley, combining vineyards with two restaurants — a refined dining room and a relaxed family bistro. Grounds take picnics and private events, with wheelchair access and dog-friendly policies, plus a preserved historic cannon station. The estate's stated ethos is that \"beautiful wines come from day to day thoughtful management in the vineyards.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "noordhoek-beach",
+      "name": "Noordhoek Beach",
+      "town": "Cape Town",
+      "area": "Noordhoek",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "beach",
+        "seaside",
+        "urban"
+      ],
+      "keywords": [
+        "long white beach",
+        "eight kilometres",
+        "dunes",
+        "wetlands",
+        "wild horses",
+        "horse riding",
+        "chapmans peak backdrop",
+        "secluded",
+        "sunset",
+        "rural",
+        "proposal",
+        "permit required for horses"
+      ],
+      "access": {
+        "status": "permit",
+        "note": "Horse shoots on this beach require a SANParks permit, the horse owner insists on one too, and an environmental officer on site was also required."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Eight kilometres of white sand beneath Chapman's Peak Drive, about thirty minutes from the CBD, described as \"paradise located right here in the Cape.\" Vegetation shelters wild horses, peacocks and Egyptian geese; horseback riding along the shore is its most distinctive feature, \"suited for seasoned riders as well as complete beginners.\" The character is secluded and rural, \"an escape from the City.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "old-nectar-gardens",
+      "name": "Old Nectar Gardens",
+      "town": "Stellenbosch",
+      "area": "Jonkershoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "garden",
+        "river",
+        "heritage"
+      ],
+      "keywords": [
+        "historic garden",
+        "victorian",
+        "terraces",
+        "garden rooms",
+        "pergola",
+        "roses",
+        "mature trees",
+        "lily ponds",
+        "waterfall",
+        "mountain cliffs",
+        "jonkershoek",
+        "private",
+        "secluded",
+        "romantic",
+        "proposal"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Raised as a private area for a surprise proposal — a private garden, so ask first."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A romantic historic garden below \"the sandstone cliffs of the 1500-metre Jonkershoek Mountains,\" blending formal Victorian design with naturalistic planting. Terraced lawns run from the manor house down to a pergola, with distinct garden rooms — bench garden, millstone terrace, waterfall garden — and lily ponds fed by a mountain stream. Nearly every tree was planted personally over seventy years: redwoods, magnolias, maples, copper beeches. A round rose garden holds heritage varieties dating to 1944, and the pergola's brick pillars were built by Italian prisoners of war.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "ons-huisie-bloubergstrand",
+      "name": "Ons Huisie, Bloubergstrand",
+      "town": "Cape Town",
+      "area": "Bloubergstrand",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "beach",
+        "seaside",
+        "mountain",
+        "heritage",
+        "rustic"
+      ],
+      "keywords": [
+        "fishermans cottage",
+        "thatch",
+        "whitewashed",
+        "heritage",
+        "early 1800s",
+        "beachfront",
+        "stoep",
+        "sea views",
+        "table mountain across the bay",
+        "west coast",
+        "bloubergstrand",
+        "rustic",
+        "wedding venue",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Raised as a beach-adjacent wedding venue closer to the city; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A restored heritage restaurant in a fisherman's cottage dating to the early 1800s, \"most probably the first dwelling\" of its original owner, occupied after the Battle of Blouberg. Keeps the character of a traditional thatched fisherman's cottage overlooking the sea, with an outdoor stoep and direct beach access. Afrikaans and West Coast heritage runs through the interior in family portraits and the menu.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "ourown-studio",
+      "name": "OurOwn Studio",
+      "town": "Cape Town",
+      "area": "City Centre",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "urban"
+      ],
+      "keywords": [
+        "studio hire",
+        "natural light",
+        "blackout",
+        "infinity curve",
+        "white background",
+        "paper backdrops",
+        "makeup room",
+        "fitting area",
+        "full-length mirror",
+        "clothing rail",
+        "change room",
+        "product photography",
+        "cbd",
+        "commercial",
+        "portraits"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "Commercial studio hire, charged by the session."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A 151m² photography and content studio in the CBD, offering \"Natural Light, Full Blackout Capability + Acoustic Curtains.\" Includes a white infinity curve, a backdrop stand with green, black, brown and grey paper options, and product photography boxes. Amenities cover a makeup room with two stations and a fitting area, a full-length mirror on wheels, a clothing rail, a lounge with coffee station, an editing station, indoor parking and 24-hour security. Describes itself as suited to \"commercial project, capturing portraits, or experimenting with new concepts.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "paardevlei",
+      "name": "Paardevlei",
+      "town": "Somerset West",
+      "area": "Paardevlei",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "mountain",
+        "river",
+        "industrial"
+      ],
+      "keywords": [
+        "vlei",
+        "shallow lake",
+        "reed beds",
+        "open field",
+        "trail",
+        "easy parking",
+        "mountain views",
+        "waterbirds",
+        "flamingo",
+        "public space",
+        "accessible",
+        "group friendly",
+        "somerset west",
+        "group shoot"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Public space. Good mountain views, and you can park fairly close to the field."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A shallow lake on the western side of the Lourens River estuary, with reed beds and vegetated margins, ringed by a maintained trail giving views from multiple points. Seasonally hosts large numbers of waterbirds, including flamingo. Occupies part of a former industrial property now being redeveloped. The chat's contribution: good mountain views, and you can park fairly close to the field.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "paarl-arboretum",
+      "name": "Paarl Arboretum",
+      "town": "Paarl",
+      "area": "Paarl Mountain",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "mountain",
+        "forest",
+        "garden"
+      ],
+      "keywords": [
+        "arboretum",
+        "300 tree species",
+        "indigenous and exotic trees",
+        "landscaped gardens",
+        "water features",
+        "grassy knolls",
+        "picnic spots",
+        "pathways",
+        "paarl mountain backdrop",
+        "free",
+        "engagement",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Free. The chat's own note: a nice place, with lovely engagement photos taken there."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A park with \"over 300 species of trees and shrubs,\" both indigenous and exotic, set against Paarl Mountain. Grounds include \"beautifully landscaped gardens, tranquil water features, and scenic picnic spots,\" grassy knolls, open lawns and well-maintained pathways, with educational signage on conservation. The chat's own note: a nice place, with lovely engagement photos taken there.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "paarl-rock-paarl-mountain-nature-reserve",
+      "name": "Paarl Rock / Paarl Mountain Nature Reserve",
+      "town": "Paarl",
+      "area": "Paarl Mountain",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "mountain",
+        "vineyard"
+      ],
+      "keywords": [
+        "granite domes",
+        "smooth rock",
+        "outcrop",
+        "panoramic views",
+        "winelands vistas",
+        "nature reserve",
+        "hiking trails",
+        "picnic",
+        "braai",
+        "easy climb",
+        "iconic",
+        "overused"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Explicitly ruled out by one photographer as overused — worth knowing before you suggest it."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"The bulbous granite outcrop that is part of the larger Paarl Mountain,\" so smooth and polished it's visible from miles away. Climbing it is described as relatively easy. The panoramas from the top are \"perfect backdrops for a hike or walk, and stunning photographs,\" across the surrounding winelands. The reserve carries trails from 2.5 to 10km, with picnic and braai spots at the base, two kilometres from town.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "postcard-cafe-at-stark-conde",
+      "name": "Postcard Café at Stark-Condé",
+      "town": "Stellenbosch",
+      "area": "Jonkershoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "garden",
+        "river",
+        "modern"
+      ],
+      "keywords": [
+        "island tasting room",
+        "dam",
+        "water reflections",
+        "rolling lawns",
+        "jonkershoek mountains",
+        "glass windows",
+        "verandah",
+        "shaded",
+        "picture-perfect",
+        "romantic",
+        "proposal",
+        "caf setting"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up as a proposal venue; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Sits in the Jonkershoek Valley with \"uninterrupted views of rolling lawns and millpond-like dam,\" overlooking the mountains in what's called one of the most naturally beautiful settings in the winelands. Its signature is a tasting room that hovers above the water, with \"oversized glass windows that maximise views of the Jonkershoek mountains.\" Dining is indoors or on a shaded verandah; the setting is described as picture-perfect.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "radloff-park",
+      "name": "Radloff Park",
+      "town": "Somerset West",
+      "area": "Somerset West Central",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "forest",
+        "garden",
+        "river"
+      ],
+      "keywords": [
+        "public park",
+        "lourens river",
+        "riverbank",
+        "lawns",
+        "mature trees",
+        "footpaths",
+        "bridges",
+        "dog walking",
+        "free access",
+        "central somerset west",
+        "familiar",
+        "overused"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Free public park. Set aside by one photographer as a bit too familiar."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A municipal park in Somerset West following the Lourens River, with lawns, mature trees, footpaths and bridges along the riverbank — a well-used local walking and dog-walking spot. It has no venue website; local walking guides and dog-walking listings are the main descriptions of it. It was suggested and then set aside by the asker as being a bit too familiar.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "rickety-bridge",
+      "name": "Rickety Bridge",
+      "town": "Franschhoek",
+      "area": "Franschhoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "vineyard",
+        "river",
+        "heritage"
+      ],
+      "keywords": [
+        "franschhoek river",
+        "dassenberg slopes",
+        "manor house",
+        "1797",
+        "mature oaks",
+        "cape doors",
+        "vineyards",
+        "restaurant",
+        "wine centre",
+        "heritage",
+        "intimate",
+        "wedding venue",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up as an intimate wedding venue for up to sixty guests; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A Franschhoek estate where \"the Franschhoek River meets the slopes of Dassenberg Mountain,\" with a heritage dating to 1797 and a stated approach of honouring \"a centuries-old legacy while embracing new winemaking techniques and innovations.\" The property emphasises a linear arrangement of buildings, mature oak trees and preserved Cape doors, with a manor house, restaurant, wine centre and farm stay.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "rupert-museum",
+      "name": "Rupert Museum",
+      "town": "Stellenbosch",
+      "area": "Stellenbosch Central",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "forest",
+        "vineyard",
+        "river",
+        "heritage",
+        "modern"
+      ],
+      "keywords": [
+        "art gallery",
+        "museum",
+        "contemporary art",
+        "sculpture",
+        "tapestry",
+        "elegant architecture",
+        "glass and stone",
+        "eerste river",
+        "oak trees",
+        "vineyards",
+        "gallery interior",
+        "couple session",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Raised as a gallery that might allow a couple session — would need asking."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"An elegant building, which was commissioned by Huberte Rupert in 2003,\" on the banks of the Eerste River, designed to sit with Stellenbosch's architectural heritage among vineyards and oak trees. Galleries hold over 350 works — mainly paintings, sculptures and tapestries — spanning 1940 to the early 2000s, regarded as \"the premier collection of contemporary South African art\" of its period, alongside European sculpture and French tapestries.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "sandton-city-rooftop-sandton-central",
+      "name": "Sandton City rooftop / Sandton Central",
+      "town": "Johannesburg",
+      "area": "Sandton",
+      "region": "Gauteng",
+      "kind": "venue",
+      "attributes": [
+        "urban",
+        "modern",
+        "hotel"
+      ],
+      "keywords": [
+        "rooftop",
+        "skyline",
+        "glass walls",
+        "minimalist dcor",
+        "city lights",
+        "urban",
+        "luxury",
+        "high-rise",
+        "sandton central",
+        "nelson mandela square",
+        "contemporary",
+        "safe",
+        "access by arrangement"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Covered in local guides rather than a single venue page. Shared in the chat with a note to message for directions."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "The rooftop options in Sandton Central are covered in local guides rather than by a single venue page. The stand-out is a rooftop bar atop the district's tallest tower, with glass walls for panoramic sightlines and \"minimal, trendy décor\" that keeps photos contemporary. A hotel sky deck nearby trades on \"roaring fires, slouchy couches and sparkling city lights,\" and Nelson Mandela Square anchors the precinct at street level.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "signal-hill",
+      "name": "Signal Hill",
+      "town": "Cape Town",
+      "area": "Signal Hill",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "studio",
+        "seaside",
+        "mountain",
+        "urban",
+        "fynbos"
+      ],
+      "keywords": [
+        "signal hill",
+        "sunset",
+        "blue hour",
+        "golden hour",
+        "city lights",
+        "table mountain backdrop",
+        "lions head",
+        "grassy slopes",
+        "fynbos",
+        "drive-up access",
+        "panoramic",
+        "engagement",
+        "permit contested",
+        "safety after dark"
+      ],
+      "access": {
+        "status": "permit",
+        "note": "Permit status was contested in the chat. Safety after dark is the bigger concern — do not shoot here alone."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A 350m hill between Kloof Nek and Lion's Head, shaped like a lion's rump, separating the City Bowl from Sea Point. Grassy, wind-exposed slopes used by paragliders and model aircraft. Reached by driving up Kloof Nek Road, making the views accessible without a hike. Panoramas are \"nothing short of spectacular\" after dark, with \"the lights and the romance of the Table Mountain backdrop.\" The Noon Gun fires daily from Lion Battery just below.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "spier",
+      "name": "Spier",
+      "town": "Stellenbosch",
+      "area": "Lynedoch",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "forest",
+        "vineyard",
+        "garden",
+        "river",
+        "heritage"
+      ],
+      "keywords": [
+        "wine farm",
+        "oak trees",
+        "eerste river",
+        "lawns",
+        "fynbos gardens",
+        "historic werf",
+        "oldest cellar",
+        "art installations",
+        "rooftop",
+        "walking trails",
+        "proposal friendly",
+        "accommodating",
+        "family friendly",
+        "proposal"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Described in the chat as very accommodating for a proposal."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"A regenerative wine farm in Stellenbosch, 40 minutes from Cape Town, where wine has been made since 1692,\" across 650 hectares of restored renosterveld and fynbos. Holds \"the oldest dated cellar still in use in South Africa,\" and a hotel set within \"rewilded fynbos gardens along the Eerste River.\" Walking and biking trails, art installations, a rooftop bar and a heated outdoor pool, with a focus on contemporary South African art and craft.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "stellenzicht",
+      "name": "Stellenzicht",
+      "town": "Stellenbosch",
+      "area": "Helderberg Slopes",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "mountain",
+        "vineyard",
+        "heritage",
+        "modern"
+      ],
+      "keywords": [
+        "helderberg slopes",
+        "elevated",
+        "mountain backdrop",
+        "vineyards",
+        "panoramic",
+        "boutique estate",
+        "heritage",
+        "300 years",
+        "scenic",
+        "group shoot"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Put forward as an option for a group shoot with mountain views; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Sits \"on the Helderberg slopes where wine has been made for over 300 years,\" with scenic views over the surrounding landscape and the Helderberg mountains as a dramatic backdrop. The elevated position is credited for both the views and the viticulture; the atmosphere blends heritage with contemporary winemaking.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "strand-beach",
+      "name": "Strand Beach",
+      "town": "Strand",
+      "area": "False Bay",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "beach",
+        "seaside",
+        "mountain",
+        "urban"
+      ],
+      "keywords": [
+        "long sandy beach",
+        "false bay",
+        "helderberg mountains",
+        "cape peninsula views",
+        "gentle waves",
+        "promenade",
+        "accessible",
+        "parking",
+        "public",
+        "windy",
+        "limited mountain view",
+        "group shoot"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Public beach with parking and a promenade. Windy, and not much mountain view from the sand itself."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Around five kilometres of sand along False Bay with \"breathtaking views of False Bay, the Helderberg Mountains, and the Cape Peninsula,\" shallow water and gentle waves, backed by parking, facilities and a promenade of shops and restaurants. The chat's qualification: good, but windy, and not much mountain view from the sand itself.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "studio-c-woodstock",
+      "name": "Studio C, Woodstock",
+      "town": "Cape Town",
+      "area": "Woodstock",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio"
+      ],
+      "keywords": [
+        "studio hire",
+        "woodstock",
+        "natural light",
+        "infinity curve",
+        "black backdrop",
+        "panelled wall",
+        "changing room",
+        "mirror",
+        "makeup table",
+        "blackout blinds",
+        "portraits",
+        "boudoir",
+        "product",
+        "small groups"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "Commercial studio hire. Up to ten people per session; strobes are not suitable for video."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "An 84m² natural-light studio with a white infinity curve, a 3m x 6m black backdrop and a white panelled wall, plus a product table. Provides a changing room, full-length mirror, makeup table, posing chairs, blackout blinds, lift access, WiFi and kitchen basics. Accommodates up to ten people per session; the studio strobes are noted as not suitable for video or film.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "the-alphen-trail-constantia-greenbelt",
+      "name": "The Alphen Trail (Constantia greenbelt)",
+      "town": "Cape Town",
+      "area": "Constantia",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "mountain",
+        "forest",
+        "river"
+      ],
+      "keywords": [
+        "greenbelt",
+        "river walk",
+        "diep river",
+        "trees",
+        "open meadow",
+        "lush grass",
+        "bridges",
+        "constantiaberg views",
+        "dappled shade",
+        "free access",
+        "easy walking",
+        "couple portraits",
+        "close to venue",
+        "wedding",
+        "couple shoot",
+        "portraits"
+      ],
+      "access": {
+        "status": "free",
+        "note": "Free to access during daylight. Parking off Alphen Drive."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A greenbelt walk following the Diep River with views of the Constantiaberg, offering \"lush grass, trees, beautiful skies\" and the Le Sueur Meadow at its far end. Either riverbank can be walked, with several bridge crossings along the route. Described as \"one of the most popular of the green belt walks\" in the valley, free to access during daylight, with parking off Alphen Drive.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "the-cellars-hohenort",
+      "name": "The Cellars-Hohenort",
+      "town": "Cape Town",
+      "area": "Constantia",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "garden",
+        "rustic",
+        "hotel"
+      ],
+      "keywords": [
+        "country house hotel",
+        "nine acres",
+        "rose garden",
+        "herb garden",
+        "citrus garden",
+        "camphor trees",
+        "lawns",
+        "ponds",
+        "water feature",
+        "table mountain views",
+        "constantia valley",
+        "hotel guests only"
+      ],
+      "access": {
+        "status": "not-permitted",
+        "note": "The group reported shoots are not permitted unless the clients are staying at the hotel."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Occupies \"nine acres of beautifully maintained land in the Constantia Valley,\" with gardens that \"slope up Table Mountain.\" Distinct garden zones include a rose garden of over 2,500 roses, herb and vegetable gardens, citrus gardens and the Hohenort lawns, plus a hot garden, rustic garden and an award-winning structured garden with water feature and ponds. Ancient camphor trees stand alongside bougainvillea, agapanthus and hydrangeas.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "the-thatch-house",
+      "name": "The Thatch House",
+      "town": "Hermanus",
+      "area": "Hermanus Lagoon",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "garden",
+        "river",
+        "rustic",
+        "hotel"
+      ],
+      "keywords": [
+        "thatched architecture",
+        "boutique hotel",
+        "lagoon views",
+        "cape fold mountains",
+        "water views",
+        "gardens",
+        "exclusive",
+        "retreat",
+        "hermanus",
+        "couples session",
+        "worth calling",
+        "couple shoot"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Flagged as possibly having the same shoot restriction as Moya's, but worth a call."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"An exclusive boutique hotel that offers respite from everyday life, in an exquisite natural setting overlooking the Hermanus Lagoon,\" with sweeping views across the water to the ancient Cape Fold Mountains. Positioned as a refined retreat with \"impeccable service and distinctive fine fare.\"",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "the-twelve-apostles-hotel-and-spa",
+      "name": "The Twelve Apostles Hotel and Spa",
+      "town": "Cape Town",
+      "area": "Camps Bay",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "seaside",
+        "mountain",
+        "hotel"
+      ],
+      "keywords": [
+        "luxury hotel",
+        "five star",
+        "ocean views",
+        "mountain backdrop",
+        "camps bay",
+        "atlantic seaboard",
+        "hotel lobby",
+        "corridors",
+        "conservatory",
+        "high tea",
+        "picnic proposal",
+        "gazebo",
+        "sophisticated",
+        "engagement",
+        "proposal"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Runs a picnic proposal package; the group noted it is cheaper than the gazebo option."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Positions itself \"at the very tip of Africa,\" above the Atlantic and flanked by the Twelve Apostles mountain range and Table Mountain National Park. Seventy individually designed rooms and suites, with ocean or mountain views from almost every room, described as \"a sophisticated haven of luxury and comfort.\" Multiple dining settings run from fine dining through sushi by the sea to high tea in the bar and conservatory. Runs a picnic proposal package, which the group noted is cheaper than the gazebo option.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "tokai-forest",
+      "name": "Tokai Forest",
+      "town": "Cape Town",
+      "area": "Tokai",
+      "region": "Western Cape",
+      "kind": "public",
+      "attributes": [
+        "mountain",
+        "forest",
+        "garden",
+        "river",
+        "heritage"
+      ],
+      "keywords": [
+        "pine plantation",
+        "arboretum",
+        "redwood",
+        "oak",
+        "cypress",
+        "towering canopy",
+        "shaded trails",
+        "open field patches",
+        "streams",
+        "picnic area",
+        "table mountain national park",
+        "forest vibes",
+        "southern suburbs"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Sits within Table Mountain National Park. Daylight visits and company are advised."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Woodland in the Southern Suburbs anchored by 1,555 trees planted in 1885 — oak, giant Californian redwood, pine and cypress — forming a towering canopy. The Arboretum is the base of the forest and includes a tea garden. Trails wind through shaded pathways alongside \"bubbling streams and their cool mountain water,\" with a braai and picnic area at the plantation's edge. Sits within Table Mountain National Park; daylight visits and company are advised.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "vergelegen",
+      "name": "Vergelegen",
+      "town": "Somerset West",
+      "area": "Helderberg",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "seaside",
+        "mountain",
+        "forest",
+        "garden",
+        "river"
+      ],
+      "keywords": [
+        "camphor forest",
+        "octagonal garden",
+        "rose garden",
+        "herbaceous borders",
+        "historic homestead",
+        "river",
+        "long grass",
+        "oak trees",
+        "bamboo",
+        "false bay views",
+        "helderberg",
+        "hottentots holland",
+        "shoot fee",
+        "arranged in advance",
+        "designated areas",
+        "late opening",
+        "engagement",
+        "group shoot"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "Now requires arrangement and a shoot fee, with a limited number of sessions per day, restricted to designated areas, and opening only mid-morning."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A historic Somerset West estate whose gardens run from a shady camphor forest — grown from seedlings of the estate's famous camphor trees, now the site of summer picnics — to an octagonal garden with seasonally rotating herbaceous borders, two rose gardens of David Austin and formal varieties, an East garden with a vine maze and oak trees, and a bamboo garden. The fynbos garden gives \"360 views of False Bay, Table Mountain, Cape Town and the Helderberg and Hottentots Holland ranges.\" The property also has a river with areas of long grass near its boundary.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "vredenheim",
+      "name": "Vredenheim",
+      "town": "Stellenbosch",
+      "area": "Devonvallei",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "garden",
+        "heritage",
+        "farm"
+      ],
+      "keywords": [
+        "cape dutch",
+        "national monument",
+        "manor house",
+        "oak trees",
+        "landscaped gardens",
+        "orchards",
+        "mountain views",
+        "game",
+        "big cats",
+        "picnic area",
+        "nursery",
+        "proposal",
+        "devonvallei"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up as a proposal venue; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A farm estate whose main house was built in 1789 and declared a national monument in 1975. The Cape Dutch restaurant building has \"a beautiful view of the mountains,\" and the property carries landscaped grounds, fruit orchards, a nursery and picnic facilities. Game roams the farm — blue wildebeest, springbok, eland, bontebok, fallow deer, oryx, zebra and ostrich — alongside its well-known big cat park.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "waterford-estate",
+      "name": "Waterford Estate",
+      "town": "Stellenbosch",
+      "area": "Blaauwklippen Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard"
+      ],
+      "keywords": [
+        "tuscan",
+        "italian vibe",
+        "courtyard",
+        "cellar",
+        "blaauwklippen valley",
+        "helderberg mountain",
+        "vineyards",
+        "lavender",
+        "citrus",
+        "wine drive",
+        "photo shoots allowed",
+        "hourly rate",
+        "engagement",
+        "proposal"
+      ],
+      "access": {
+        "status": "fee",
+        "note": "Lists photo shoots alongside venue hire. Allows shoots at a per-hour rate the group considered steep."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"A distinguished winery in Stellenbosch's Blaauwklippen Valley\" set against the Helderberg. The cellar is built around a central courtyard so visitors can watch winemaking as they pass. Visitors describe a European feel — \"You feel like you're in Tuscany, it's fantastic.\" The estate explicitly lists photo shoots alongside venue hire, corporate functions and private dining.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "webersburg",
+      "name": "Webersburg",
+      "town": "Stellenbosch",
+      "area": "Stellenbosch Winelands",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "vineyard",
+        "garden",
+        "river"
+      ],
+      "keywords": [
+        "cape dutch manor",
+        "18th century",
+        "yellow wood",
+        "dam",
+        "lake views",
+        "oak trees",
+        "vineyards",
+        "helderberg range",
+        "sculptures",
+        "manicured gardens",
+        "ceremony spot",
+        "proposal",
+        "wedding venue"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Came up as a proposal venue; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "Centres on a Cape Dutch manor house built in 1786 with \"original yellow wood floors and rafters,\" and a 1796 cellar. A dam ringed by oak trees is the focal point of the grounds, with vineyards across rolling terrain and views to the Helderberg range. Manicured gardens, a tennis court and wildlife sculptures scattered across the estate. The outdoor area overlooking the dam is described as \"idyllic\" for ceremonies.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "weltevreden-estate",
+      "name": "Weltevreden Estate",
+      "town": "Stellenbosch",
+      "area": "Simonsberg",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "vineyard",
+        "garden",
+        "heritage",
+        "modern"
+      ],
+      "keywords": [
+        "restored manor house",
+        "simonsberg",
+        "lawn ceremonies",
+        "front lawn",
+        "old-world",
+        "gardens",
+        "mountain setting",
+        "restaurant",
+        "functions",
+        "intimate",
+        "sixty guests",
+        "wedding venue",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "They do weddings on the lawn in front of the manor house; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "\"A beautifully restored Manor House in the heart of the Stellenbosch Winelands,\" positioned beneath the Simonsberg, blending \"old-world opulence\" with contemporary hospitality. Markets itself as \"the premier venue for a wide range of functions, conferences, and life celebrations,\" citing its picturesque mountainside setting, with a restaurant, art collection and family activities on site.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "zeitz-mocaa",
+      "name": "Zeitz MOCAA",
+      "town": "Cape Town",
+      "area": "V&A Waterfront",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "studio",
+        "industrial",
+        "modern",
+        "gallery"
+      ],
+      "keywords": [
+        "contemporary art museum",
+        "grain silo",
+        "adaptive reuse",
+        "atrium",
+        "concrete tubes",
+        "sculptural architecture",
+        "industrial",
+        "va waterfront",
+        "silo district",
+        "gallery",
+        "venue hire",
+        "dramatic interior",
+        "bridal editorial",
+        "bridal"
+      ],
+      "access": {
+        "status": "arrangement",
+        "note": "Venue hire is offered — the atrium would need to be booked."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A public not-for-profit museum that \"exhibits, collects, preserves and researches contemporary art from Africa and its diaspora,\" housed in Cape Town's converted 1924 grain silo in the Silo District. Heatherwick Studio's conversion carved forty-two concrete tubes into a single scooped-out atrium shaped like a grain of corn — the building's signature space. Venue hire is offered.",
+      "contact": {
+        "person": "",
+        "phone": "",
+        "whatsapp": "",
+        "email": "",
+        "website": "",
+        "address": ""
+      },
+      "listed": false
+    },
+    {
+      "id": "zorgvliet",
+      "name": "Zorgvliet",
+      "town": "Stellenbosch",
+      "area": "Banhoek Valley",
+      "region": "Western Cape",
+      "kind": "venue",
+      "attributes": [
+        "mountain",
+        "forest",
+        "vineyard",
+        "garden",
+        "heritage"
+      ],
+      "keywords": [
+        "banhoek valley",
+        "helshoogte pass",
+        "restored manor house",
+        "oak trees",
+        "valley views",
+        "mountain views",
+        "picnic lawns",
+        "tasting room",
+        "accommodation",
+        "multiple spaces",
+        "indoor options",
+        "wedding venue",
+        "wedding"
+      ],
+      "access": {
+        "status": "unknown",
+        "note": "Put forward as having lots of options including indoor ones; shoot terms not confirmed."
+      },
+      "pricePerHour": null,
+      "availability": {
+        "days": "",
+        "hours": "",
+        "note": ""
+      },
+      "photos": [],
+      "description": "A wine farm dating to 1692 on the Helshoogte Pass in the Banhoek Valley, with a restored manor house serving as the tasting room. Views run across the valley and surrounding mountains, and mature oak trees shade the grounds — \"a perfect place to take the family to picnic.\" Offers cellar tours, vineyard walks, picnic baskets, accommodation and a spa.",
       "contact": {
         "person": "",
         "phone": "",
